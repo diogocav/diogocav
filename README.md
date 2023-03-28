@@ -55,6 +55,13 @@ Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento 
 [<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/)
 
 -----
+<div align="center" > 
+<a href="http://www.github.com/diogocav">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocav&theme=dracula&hide_langs_below=1" />
+</a><span><a href="http://www.github.com/diogocav">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogocav&show_icons=true&theme=dracula&line_height=27" alt="diogocav github stats"/>
+</a></span>
+</div>
 
 <div align="center" > 
 <a href="http://www.github.com/diogocav"><img src="https://github-readme-stats.vercel.app/api?username=diogocav&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="diogocav's GitHub stats" target=_blank /></a><span><a href="https://github.com/diogocav" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocav&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a></span>
