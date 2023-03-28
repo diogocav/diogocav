@@ -8,11 +8,23 @@
   Sou formado em direito e ingressei na escola de programação [Trybe](https://www.betrybe.com/) em maio de 2022, escola de desenvolvimento web full stack baseada em projetos.
   
 Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento profissiona
+
+ -----
   
  - Moro em Belo Horizonte, Minas Gerais, Brasil.
- - 
-  
+ - Gosto de mangás e livros, principalmente épicos fantásticos. Minhas citações favoritas são:
 
+  
+“Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.”
+
+― Patrick Rothfuss, The Name of the Wind
+  
+“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
+
+― Frank Herbert, Dune
+  
+-----
+  
 </p>
 
 <p align="left">
