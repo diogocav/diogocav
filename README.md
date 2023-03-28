@@ -5,9 +5,13 @@
 <p align="left"> 
   Currently in a career change, i am looking for an opportunity to start my programming career. With love for learning new things i'm always looking for knowledge and professional growth.
   
-  Sou formado em direito e ingressei na escola de programação Trybe (https://www.betrybe.com) em maio de 2022, escola de desenvolvimento web full stack baseada em projetos.
+  Sou formado em direito e ingressei na escola de programação [Trybe](https://www.betrybe.com/) em maio de 2022, escola de desenvolvimento web full stack baseada em projetos.
   
 Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento profissiona
+  
+ - Moro em Belo Horizonte, Minas Gerais, Brasil.
+ - 
+  
 
 </p>
 
@@ -41,10 +45,55 @@ Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento 
 
 -----
 
-<h3 align="center">Languages and Tools:</h3>
+<p align='center'>
+  <h1 align='center'>Languages and Tools:</h1>
+ </p>
+<div style="display: inline_block;" align="center">
+<table>
+  <tr>
+    <th>Front-End</th>
+    <th>Back-end</th>
+    <th>Tests</th>
+    <th>Others</th>
+  </tr>
+  <tr>
+    <td>
+      <img align="center" alt="Tz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="Tz-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="Tz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Tz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Tz-redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+      <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Tz-bootStrap" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg">
+        <img align="center" title="tailwindcss" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    </td>
+    <td>
+       <img align="center" alt="Tz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+       <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+        <img align="center" title="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+       <img align="center" alt="Tz-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+       <img align="center" alt="Tz-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+        <img align="center" title="mongodb" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+       <img align="center" alt="Tz-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <img align="center" alt="Tz-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
+      <img align="center" alt="Tz-sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg">
+    </td>
+    <td>
+       <img align="center" alt="Tz-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+       <img align="center" alt="Tz-mocha" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg">
+        <img align="center" title="RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+    </td>
+    <td>
+       <img align="center" alt="Tz-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+       <img align="center" alt="Tz-vsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+       <img align="center" alt="Tz-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
+      <img align="center" alt="Tz-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    </td>
+  </tr>
+</table>
 
 
-[<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
+<!-- [<img src="https://github.com/IvanRafael-Dev/MeuPrimeiroRepositorio/blob/master/Images/linux_ico.png" width="60" height="60">](https://www.linux.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60">](https://www.javascript.com/)
 [<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-2.svg" width="60" height="60">](https://nodejs.org/en/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60">](https://www.w3schools.com/html/default.asp)
@@ -52,22 +101,22 @@ Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60">](https://pt-br.reactjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60">](https://redux.js.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60">](https://git-scm.com/)
-[<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/)
+[<img src="https://avatars.githubusercontent.com/u/32196900?s=200&v=4" width="55" height="55">](https://jestjs.io/pt-BR/) -->
 
 -----
-<div align="center" > 
+<!-- <div align="center" > 
 <a href="http://www.github.com/diogocav">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocav&theme=dracula&hide_langs_below=1" />
 </a><span><a href="http://www.github.com/diogocav">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=diogocav&show_icons=true&theme=dracula&line_height=27" alt="diogocav github stats"/>
 </a></span>
-</div>
+</div> -->
 
 <div align="center" > 
 <a href="http://www.github.com/diogocav"><img src="https://github-readme-stats.vercel.app/api?username=diogocav&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&show_icons=true" alt="diogocav's GitHub stats" target=_blank /></a><span><a href="https://github.com/diogocav" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocav&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a></span>
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=diogocav&theme=github&hide_border=true&area=true)
+<!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=diogocav&theme=github&hide_border=true&area=true) -->
 
   -----
 
