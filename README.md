@@ -5,34 +5,16 @@
 <p align="left"> 
   Currently in a career change, i am looking for an opportunity to start my programming career. With love for learning new things i'm always looking for knowledge and professional growth.
   
-  Sou formado em direito e ingressei na escola de programação [Trybe](https://www.betrybe.com/) em maio de 2022, escola de desenvolvimento web full stack baseada em projetos.
-  
-Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento profissiona
+  Sou formado em direito e ingressei na escola de programação [Trybe](https://www.betrybe.com/) em maio de 2022, escola de desenvolvimento web full stack baseada em projetos. Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento profissional.
 
- -----
-  
- - Moro em Belo Horizonte, Minas Gerais, Brasil.
- - Gosto de mangás e livros, principalmente épicos fantásticos. Minhas citações favoritas são:
-
-  
-“Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.”
-
-― Patrick Rothfuss, The Name of the Wind
-  
-“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
-
-― Frank Herbert, Dune
-  
------
-  
 </p>
 
 <p align="left">
-  🦄 Linguagens: Tenho conhecimento nas linguagens HTML5, CSS3, JavaScript e TypeScript, em front-end com o framework React, utilizando Redux e Context API, no back-end com NODEJS e o framework Express, em banco de dados com MySQL e MongoDB, e dentro do ambiente de desenvolvimento com Linux, Git e Docker.
+  🦄 <strong> Linguagens </strong> : Tenho conhecimento nas linguagens HTML5, CSS3, JavaScript e TypeScript, em front-end com o framework React, utilizando Redux e Context API, no back-end com NODEJS e o framework Express, em banco de dados com MySQL e MongoDB, e dentro do ambiente de desenvolvimento com Linux, Git e Docker.
 </p>
 
 <p align="left">
-  💼 Ferramentas: Tenho experiência com metodologias ágeis como Scrum e Kanban, utilizadas nos projetos que desenvolvi durante minha formação na Trybe.
+  💼 <strong> Ferramentas </strong>: Tenho experiência com metodologias ágeis como Scrum e Kanban, utilizadas nos projetos que desenvolvi durante minha formação na Trybe.
 </p>
 
 
@@ -54,6 +36,20 @@ Com facilidade de aprendizado, estou sempre buscando conhecimento e crescimento 
 
 </p>
 
+
+ -----
+  
+ - Moro em <strong> Belo Horizonte, Minas Gerais, Brasil </strong>.
+ - Gosto de mangás e livros, principalmente épicos fantásticos. Minhas citações favoritas são:
+
+  
+“Words are pale shadows of forgotten names. As names have power, words have power. Words can light fires in the minds of men. Words can wring tears from the hardest hearts.”
+
+― Patrick Rothfuss, The Name of the Wind
+  
+“I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.”
+
+― Frank Herbert, Dune
 
 -----
 
